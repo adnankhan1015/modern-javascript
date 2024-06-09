@@ -23,10 +23,19 @@ All the above steps are related to the front-end.
 
 ## Why Learn JavaScript?
 
+- Popularity
+- Versatility
+- Relatively Easy to Learn
+- Community
+
 - You can also use it on the **sever side** with **Node JS** runtime, as well as **Deno**.
 - So in addition to consuming APIs from the front-end, we can also create APIs that interact with databases on the backend.
 - So it's used on both on the **front-end** and **back-end** of **Web development**, making it a **full stack** language
-  **Mobile Applications**
+
+**Mobile Applications**
+
 - There's technologies like **React Native** which allow you to build complex mobile applications.
-  **Desktop Applications**
+
+**Desktop Applications**
+
 - Technologies like **Electron** which allow you to create desktop applications. Some of the most popular desktop apps are actually built on JavaScript and **Electron**, including **VS Code an IDE**, as well as **Postman** which is HTTP client that we will be using.

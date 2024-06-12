@@ -17,7 +17,7 @@
 - **Animations & Effects** There's many different ways that we can create these using JavaScript, we can use CSS transitions and animations with JavaScript.
 - **Data Manipulataion** (Sorting, filtering, etc). Which is the process of modifying or transforming data, can be done with JavaScript because it's a full featured language with data structures like arrays, and this allows us to sort, filter and aggregate data.
 - **Storing Data** (Cookies, LocalStorage, etc). JavaScript can also be used to store data on the client or in the browser using things like localStorage, SessionStorage, Cookies.
-- **Single Page Applications (SPA)** These are applications that load a single HTML page and dynamically update the content without having to reload the entire page. Usually you would use a front-end framework for building SPAs. such as **ReactJS**, **VueJS** or **Angular** but you can also create them with Vanilla JavaScript
+- **Single Page Applications (SPA)** These are applications that load a single HTML page and dynamically update the content without having to reload the entire page. Usually you would use a front-end framework for building SPAs. such as **ReactJS**, **VueJS** or **Angular** but you can also create them with **Vanilla JavaScript**.
 
 All the above steps are related to the front-end.
 
@@ -27,6 +27,8 @@ All the above steps are related to the front-end.
 - Versatility
 - Relatively Easy to Learn
 - Community
+
+<hr>
 
 - You can also use it on the **sever side** with **Node JS** runtime, as well as **Deno**.
 - So in addition to consuming APIs from the front-end, we can also create APIs that interact with databases on the backend.

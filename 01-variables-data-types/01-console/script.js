@@ -1,10 +1,14 @@
 // Now we can show the stuff on the console with the console object in JavaScript
 
-console.log(100);
+//
+/*
+! MultiLine comment
+* console.log(100);
 
-console.log("Hello World");
+? console.log("Hello World");
 
-console.log(20, "Hello", true);
+TODO: console.log(20, "Hello", true);
+*/
 
 const x = 100;
 
